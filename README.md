@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MayeeshaFarjana
-- 👀 I’m interested in books & travelling, and also machine learning :)
-- 🌱 I’m currently learning OOP & DS
-- 💞️ I’m looking to collaborate on gaming project
+- 👀 I’m interested in books, travelling, and machine learning :)
+- 🌱 I’m currently learning various algorithms of ML
+- 💞️ I’m looking to collaborate on machine learning project
 - 📫 How to reach me ... mayeeshafarjana30@gmail.com
 
 <!---
